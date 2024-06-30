@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ajmalnk1836
-- 👀 I’m interested in Mobile App development using flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I'm Muhammed Ajmal NK
+I'm a passionate Software Engineer with over 2 years of experience in Flutter Development. I specialize in creating robust and user-friendly mobile applications. My expertise includes:
 
-<!---
-Ajmalnk1836/Ajmalnk1836 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* API Integration
+* WebSockets
+* Push Notifications
+* Architectural Patterns (MVC, MVVM,)
+* Responsive UI design and animation
